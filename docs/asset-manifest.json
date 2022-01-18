@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.a5feb0d6.css",
-    "main.js": "/static/js/main.571c057f.js",
+    "main.js": "/static/js/main.be4f0f31.js",
     "static/media/Overpass-VariableFont_wght.ttf": "/static/media/Overpass-VariableFont_wght.141a260be3aff4168e26.ttf",
     "static/media/tang.jpg": "/static/media/tang.7291dbf3158836c6d355.jpg",
     "index.html": "/index.html",
     "main.a5feb0d6.css.map": "/static/css/main.a5feb0d6.css.map",
-    "main.571c057f.js.map": "/static/js/main.571c057f.js.map"
+    "main.be4f0f31.js.map": "/static/js/main.be4f0f31.js.map"
   },
   "entrypoints": [
     "static/css/main.a5feb0d6.css",
-    "static/js/main.571c057f.js"
+    "static/js/main.be4f0f31.js"
   ]
 }
