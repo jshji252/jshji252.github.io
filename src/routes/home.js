@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div style={{ width: "100%" }}>
       <img alt="me" src={me} className={styles.myImg} />
-      <p>Hi my name is Jason and I am a software developer in Australia.</p>
+      <p>Hi my name is Jason and I am a software developer in Australia! Nice to meet you!</p>
     </div>
   );
 }

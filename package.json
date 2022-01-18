@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "serve": "serve -s build",
-    "build": "react-scripts build && node ./src/generate-contents.mjs && mv ./build ./docs",
+    "build": "react-scripts build && node ./src/generate-contents.mjs && cp -a ./build/. ./docs",
     "parse": "node ./src/generate-contents.mjs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
