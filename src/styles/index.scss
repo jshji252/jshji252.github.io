@@ -1,0 +1,17 @@
+@use "colors.module.scss" as colors;
+body {
+  margin: 0;
+  background-color: colors.$background;
+  color: colors.$mainText;
+  min-height: 100vh;
+  max-height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
