@@ -13,12 +13,10 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "^5.0.0",
     "sass": "^1.47.0",
-    "serve": "^13.0.2",
     "web-vitals": "^2.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
-    "serve": "serve -s build",
     "build": "react-scripts build && node ./src/generate-contents.mjs && cp -a ./build/. ./docs",
     "parse": "node ./src/generate-contents.mjs",
     "test": "react-scripts test",
